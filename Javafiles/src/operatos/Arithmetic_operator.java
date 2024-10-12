@@ -1,4 +1,4 @@
-package practice;
+package operatos;
 
 public class Arithmetic_operator {
 
