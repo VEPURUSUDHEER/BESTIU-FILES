@@ -1,6 +1,6 @@
 package org.tns.capgemini.c2tc.sr_developer;
-import org.tns.capgemini.c2tc.Jr_developer.*;
-import org.tns.capgemini.c2tc.jr1_developer.*; 
+import org.tns.capgemini.c2tc.jr1_developer.*;
+import org.tns.capgemini.c2tc.jr_developer.*; 
 
 public class KIA_INTERNAL {
 
